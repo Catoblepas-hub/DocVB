@@ -10,6 +10,8 @@ additional_contributors:
     html_url: https://github.com/Antoine190
     avatar_url: https://github.com/Antoine190.png
 ---
+## Schéma électrique
+<img width="918" height="172" alt="image" src="https://github.com/user-attachments/assets/e43ab5b1-1c88-4e0d-9f0a-5d3d378a7cc7" />
 
 ## Schéma du PCB
 
